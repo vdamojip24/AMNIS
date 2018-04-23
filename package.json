@@ -1,0 +1,15 @@
+{
+  "name": "aminus",
+  "version": "1.0.0",
+  "description": "Live Webcasting service",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "socket.io": "^2.0.4"
+  }
+}
